@@ -1,0 +1,64 @@
+body{
+    background-color: aliceblue;
+}
+/*menu css*/
+img.logo2{
+    margin-left:2vh;
+}
+.div1{
+    height: 15vh;
+}
+.button2{
+    margin-top: -2vh;
+}
+.cabecalhomenu2{
+    background-color: #0072BC;
+}
+h5{
+    color: black;
+}
+/*carousel css*/
+.banner{
+    width: 100%;
+    height: 90vh;
+    margin-top: 10vh;
+
+     
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+.carousel{
+    width: 60%;
+    height: 80%;
+    margin-left: 2vh;
+    margin-top: 2vh;}
+h1{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bolder;
+        font-size: xx-large;
+        margin-left: 7vh;
+        color: #0072BC;
+    }
+    /*projeto css*/
+.tittleprojeto{
+    color:#0072BC;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left:2vh
+
+}
+/*pg inicial*/
+.no-style-link {
+    text-decoration: none; /* Remove o sublinhado */
+    color: inherit; /* Herda a cor do elemento pai (por exemplo, a cor do texto) */
+}
+/*equipe*/
+.tittleprojeto2{
+    color:#0072BC;
+    font-weight: bold;
+    font-size: 50px;
+    margin-left:5vh
+
+}
